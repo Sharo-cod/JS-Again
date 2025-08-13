@@ -1,0 +1,45 @@
+.bg-black{
+    padding: 0;
+    margin: 0;
+    background-color: #212121;
+    color: #fff;
+}
+.heading{
+    text-align: center;
+    font-family: sans-serif;
+}
+
+.para1{
+    text-align: center;
+    font-size: 18px;
+    font-family: cursive;
+}
+.paraall{
+    position: relative;
+    top: 100px;
+    height: 100px;
+    width: 100%;
+    background-color: rgba(255, 255, 255 , 0.2);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.btnpara{
+    font-size: 25px;
+    font-family: sans-serif;
+}
+.btn1{
+    padding: 10px 30px;
+    letter-spacing: 2px;
+    font-size: 17px;
+    margin-left: 20px;
+    font-weight: 600;
+    border-style: none;
+    border-radius: 10px;
+    transition: .2s;
+    cursor: pointer;
+}
+.btn1:hover{
+    background-color: rgb(118, 115, 115);
+    letter-spacing: 5px;
+}
