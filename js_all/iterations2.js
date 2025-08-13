@@ -20,4 +20,7 @@ const map = new Map()
 map.set('IN' , "India")
 map.set('USA' , "United states of america")
 map.set('Fr' , "France")
-console.log(map);
+// console.log(map);
+
+
+// +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
