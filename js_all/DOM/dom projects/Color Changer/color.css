@@ -1,0 +1,61 @@
+html {
+  margin: 0;
+}
+h1{
+    font-family: sans-serif;
+    text-align: center;
+    margin-top: 50px;
+}
+h2{
+    font-family: sans-serif;
+    text-align: center;
+
+}
+.canvas{
+    height: 60vh;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.btns{
+    height: 25vh;
+    width: 15%;
+    margin: 10px;
+    transition: 0.3s ease-in-out;
+    cursor: pointer;
+}
+
+#grey {
+  background: grey;
+    border: 1px solid black;
+}
+#grey:hover{
+    height: 25.5vh;
+    width: 15.5%;
+}
+
+#white {
+  background: white;
+  border: 1px solid black;
+}
+#white:hover{
+    height: 25.5vh;
+    width: 15.5%;
+}
+#blue {
+  background: blue;
+  border: 1px solid black;
+}
+#blue:hover{
+    height: 25.5vh;
+    width: 15.5%;
+}
+#yellow {
+  background: yellow;
+  border: 1px solid black;
+}
+#yellow:hover{
+    height: 25.5vh;
+    width: 15.5%;
+}
